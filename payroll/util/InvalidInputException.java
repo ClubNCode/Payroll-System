@@ -1,4 +1,4 @@
-package com.wipro.payroll.util;
+package com.raj.payroll.util;
 
 public class InvalidInputException extends Exception {
 	
