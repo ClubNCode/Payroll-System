@@ -1,4 +1,4 @@
-package com.wipro.payroll.util;
+package com.raj.payroll.util;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
