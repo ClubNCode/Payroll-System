@@ -1,4 +1,4 @@
-package com.wipro.payroll.bean;
+package com.raj.payroll.bean;
 
 public class PayslipBean {
 	
